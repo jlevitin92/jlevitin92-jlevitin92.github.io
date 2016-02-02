@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Flatiron | Awebsted Development]]></title>
+  <link href="http://jlevitin92.github.io/blog/categories/flatiron/atom.xml" rel="self"/>
+  <link href="http://jlevitin92.github.io/"/>
+  <updated>2016-02-01T20:59:21-05:00</updated>
+  <id>http://jlevitin92.github.io/</id>
+  <author>
+    <name><![CDATA[Jacob Levitin]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[#1]]></title>
+    <link href="http://jlevitin92.github.io/blog/2016/02/01/number-1/"/>
+    <updated>2016-02-01T20:55:34-05:00</updated>
+    <id>http://jlevitin92.github.io/blog/2016/02/01/number-1</id>
+    <content type="html"><![CDATA[<p>The fish was delish, and made quite a dish</p>
+]]></content>
+  </entry>
+  
+</feed>
